@@ -1,46 +1,122 @@
-{
-  "careers": [
-    {
-      "id": 1,
-      "title": "Senior React Developer",
-      "salary": 50000,
-      "location": "London, UK"
-    },
-    {
-      "id": 2,
-      "title": "Plumber",
-      "salary": 40000,
-      "location": "Bowser's Castle"
-    },
-    {
-      "id": 3,
-      "title": "Gym Leader",
-      "salary": 75000,
-      "location": "Kanto Region"
-    },
-    {
-      "id": 4,
-      "title": "Vue Developer",
-      "salary": 40000,
-      "location": "Liverpool, UK"
-    },
-    {
-      "id": 5,
-      "title": "Tutorial Maker",
-      "salary": 35000,
-      "location": "Manchester, UK"
-    },
-    {
-      "id": 6,
-      "title": "Website Manager",
-      "salary": 50000,
-      "location": "Berlin, Germany"
-    },
-    {
-      "id": 7,
-      "title": "Food Tester",
-      "salary": 30000,
-      "location": "London, UK"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Senior React Developer",
+    "salary": 50000,
+    "location": "Mumbai, India"
+  },
+  {
+    "id": 2,
+    "title": "Plumber",
+    "salary": 40000,
+    "location": "Delhi, India"
+  },
+  {
+    "id": 3,
+    "title": "Gym Leader",
+    "salary": 75000,
+    "location": "Bangalore, India"
+  },
+  {
+    "id": 4,
+    "title": "Vue Developer",
+    "salary": 40000,
+    "location": "Chennai, India"
+  },
+  {
+    "id": 5,
+    "title": "Tutorial Maker",
+    "salary": 35000,
+    "location": "Kolkata, India"
+  },
+  {
+    "id": 6,
+    "title": "Website Manager",
+    "salary": 50000,
+    "location": "Hyderabad, India"
+  },
+  {
+    "id": 7,
+    "title": "Food Tester",
+    "salary": 30000,
+    "location": "Pune, India"
+  },
+  {
+    "id": 8,
+    "title": "Software Engineer",
+    "salary": 60000,
+    "location": "Jaipur, India"
+  },
+  {
+    "id": 9,
+    "title": "Data Scientist",
+    "salary": 80000,
+    "location": "Ahmedabad, India"
+  },
+  {
+    "id": 10,
+    "title": "Graphic Designer",
+    "salary": 45000,
+    "location": "Lucknow, India"
+  },
+  {
+    "id": 11,
+    "title": "Content Writer",
+    "salary": 35000,
+    "location": "Chandigarh, India"
+  },
+  {
+    "id": 12,
+    "title": "Marketing Manager",
+    "salary": 55000,
+    "location": "Indore, India"
+  },
+  {
+    "id": 13,
+    "title": "Android Developer",
+    "salary": 45000,
+    "location": "Kochi, India"
+  },
+  {
+    "id": 14,
+    "title": "HR Specialist",
+    "salary": 40000,
+    "location": "Jaipur, India"
+  },
+  {
+    "id": 15,
+    "title": "Sales Executive",
+    "salary": 30000,
+    "location": "Surat, India"
+  },
+  {
+    "id": 16,
+    "title": "UI/UX Designer",
+    "salary": 50000,
+    "location": "Bhopal, India"
+  },
+  {
+    "id": 17,
+    "title": "Accountant",
+    "salary": 40000,
+    "location": "Nagpur, India"
+  },
+  {
+    "id": 18,
+    "title": "Project Manager",
+    "salary": 60000,
+    "location": "Visakhapatnam, India"
+  },
+  {
+    "id": 19,
+    "title": "Customer Support Representative",
+    "salary": 35000,
+    "location": "Agra, India"
+  },
+  {
+    "id": 20,
+    "title": "Quality Assurance Analyst",
+    "salary": 45000,
+    "location": "Patna, India"
+  }
+]
