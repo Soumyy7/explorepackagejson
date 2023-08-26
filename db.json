@@ -7,7 +7,8 @@
       "duration": "5 Days / 4 Nights",
       "price_inr": "INR 12,000",
       "price_usd": "$160",
-      "description": "Experience the vibrant city of Mumbai, where tradition meets modernity. Explore historical landmarks, enjoy the bustling markets, and savor delicious street food. From the iconic Gateway of India to the glamorous Bollywood scene, this tour captures the essence of Mumbai's rich culture and diversity."
+      "description": "Experience the vibrant city of Mumbai...",
+      "attractions": "Visit the iconic Gateway of India, explore historic Chhatrapati Shivaji Terminus, savor street food delights at Chowpatty Beach, and discover the glamorous Bollywood scene."
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "duration": "4 Days / 3 Nights",
       "price_inr": "INR 10,500",
       "price_usd": "$140",
-      "description": "Embark on a journey to Delhi, India's capital city, where history unfolds at every corner. Visit the historic Red Fort, Jama Masjid, and Humayun's Tomb. Experience the blend of ancient traditions and modern influences as you explore bustling markets and savor authentic Indian cuisine."
+      "description": "Embark on a journey to Delhi...",
+      "attractions": "Explore the historic Red Fort, Jama Masjid, and Humayun's Tomb. Immerse in bustling markets and savor authentic Indian cuisine."
     },
     {
       "id": 3,
@@ -25,43 +27,8 @@
       "duration": "3 Days / 2 Nights",
       "price_inr": "INR 9,000",
       "price_usd": "$120",
-      "description": "Escape to Bangalore, a city known for its pleasant climate and vibrant culture. Discover lush gardens, impressive tech parks, and lively street markets. Explore the art and music scene, and enjoy a serene getaway at nearby nature reserves."
-    },
-    {
-      "id": 4,
-      "title": "Chennai Charm",
-      "destination": "Chennai, India",
-      "duration": "4 Days / 3 Nights",
-      "price_inr": "INR 11,250",
-      "price_usd": "$150",
-      "description": "Experience the charm of Chennai, where tradition and modernity coexist harmoniously. Explore magnificent temples, stroll along Marina Beach, and savor delectable South Indian cuisine. Discover the city's rich heritage and immerse yourself in its cultural treasures."
-    },
-    {
-      "id": 5,
-      "title": "Kolkata Kaleidoscope",
-      "destination": "Kolkata, India",
-      "duration": "5 Days / 4 Nights",
-      "price_inr": "INR 12,750",
-      "price_usd": "$170",
-      "description": "Uncover the cultural kaleidoscope of Kolkata, a city known for its artistic heritage and intellectual pursuits. Visit iconic landmarks, explore colonial-era architecture, and indulge in the city's culinary delights. Immerse yourself in the arts, literature, and history of this vibrant metropolis."
-    },
-    {
-      "id": 6,
-      "title": "Hyderabad Heritage",
-      "destination": "Hyderabad, India",
-      "duration": "3 Days / 2 Nights",
-      "price_inr": "INR 9,000",
-      "price_usd": "$120",
-      "description": "Discover the regal heritage of Hyderabad, a city of Nizams and iconic landmarks. Explore the historic Charminar, visit the opulent Chowmahalla Palace, and savor the world-famous Hyderabadi biryani. Experience the blend of old-world charm and modern dynamism."
-    },
-    {
-      "id": 7,
-      "title": "Paris Romance",
-      "destination": "Paris, France",
-      "duration": "6 Days / 5 Nights",
-      "price_inr": "INR 30,000",
-      "price_usd": "$400",
-      "description": "Experience the romance of Paris, the City of Love. Explore iconic landmarks like the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. Indulge in gourmet cuisine, stroll along the Seine River, and immerse yourself in the arts and culture of this enchanting city."
+      "description": "Escape to Bangalore, a city known for its pleasant climate...",
+      "attractions": "Discover lush gardens, tech parks, lively street markets, art and music scene, and nearby nature reserves."
     },
     {
       "id": 8,
@@ -70,16 +37,8 @@
       "duration": "7 Days / 6 Nights",
       "price_inr": "INR 40,000",
       "price_usd": "$550",
-      "description": "Embark on an exciting adventure in the vibrant streets of New York City. Discover the iconic Statue of Liberty, Times Square, and Central Park. Immerse yourself in the city's diverse culture, Broadway shows, and world-class dining."
-    },
-    {
-      "id": 8,
-      "title": "New York Adventure",
-      "destination": "New York City, USA",
-      "duration": "7 Days / 6 Nights",
-      "price_inr": "INR 40,000",
-      "price_usd": "$550",
-      "description": "Embark on an exciting adventure in the vibrant streets of New York City. Discover the iconic Statue of Liberty, Times Square, and Central Park. Immerse yourself in the city's diverse culture, Broadway shows, and world-class dining."
+      "description": "Embark on an exciting adventure in the vibrant streets of New York City...",
+      "attractions": "Discover the iconic Statue of Liberty, Times Square, Central Park, Broadway shows, diverse cultural experiences, and world-class dining."
     },
     {
       "id": 9,
@@ -88,7 +47,8 @@
       "duration": "5 Days / 4 Nights",
       "price_inr": "INR 25,000",
       "price_usd": "$350",
-      "description": "Experience the breathtaking beauty of Santorini's white-washed buildings and crystal-clear waters. Explore charming villages, relax on stunning beaches, and witness stunning sunsets over the Aegean Sea. This idyllic island escape is perfect for relaxation and rejuvenation."
+      "description": "Experience the breathtaking beauty of Santorini's white-washed buildings and crystal-clear waters...",
+      "attractions": "Explore charming villages, relax on stunning beaches, witness stunning sunsets, and immerse in local culture."
     },
     {
       "id": 10,
@@ -97,7 +57,8 @@
       "duration": "6 Days / 5 Nights",
       "price_inr": "INR 35,000",
       "price_usd": "$480",
-      "description": "Immerse yourself in the vibrant energy of Tokyo, where ancient traditions meet futuristic innovation. Visit historic temples, experience bustling street markets, and indulge in authentic Japanese cuisine. Discover the unique blend of modernity and culture that defines this captivating city."
+      "description": "Immerse yourself in the vibrant energy of Tokyo, where ancient traditions meet futuristic innovation...",
+      "attractions": "Visit historic temples, experience bustling street markets, indulge in authentic Japanese cuisine, and discover modern cultural phenomena."
     },
     {
       "id": 11,
@@ -106,8 +67,88 @@
       "duration": "8 Days / 7 Nights",
       "price_inr": "INR 28,000",
       "price_usd": "$380",
-      "description": "Escape to the paradise of Bali, where lush landscapes, tranquil beaches, and vibrant culture await. Explore ancient temples, relax in luxurious resorts, and enjoy water sports in clear turquoise waters. Experience the perfect blend of relaxation and adventure."
+      "description": "Escape to the paradise of Bali, where lush landscapes, tranquil beaches, and vibrant culture await...",
+      "attractions": "Explore ancient temples, relax in luxurious resorts, enjoy water sports, and immerse in local traditions."
+    },
+    {
+      "id": 12,
+      "title": "Rome and Romance",
+      "destination": "Rome, Italy",
+      "duration": "6 Days / 5 Nights",
+      "price_inr": "INR 32,000",
+      "price_usd": "$430",
+      "description": "Experience the eternal city of Rome, where history comes alive around every corner...",
+      "attractions": "Visit the Colosseum, Vatican City, Trevi Fountain, enjoy Italian cuisine, and stroll through charming neighborhoods."
+    },
+    {
+      "id": 13,
+      "title": "Cultural Odyssey in Cairo",
+      "destination": "Cairo, Egypt",
+      "duration": "5 Days / 4 Nights",
+      "price_inr": "INR 18,500",
+      "price_usd": "$250",
+      "description": "Embark on a cultural odyssey in Cairo, where ancient wonders and modern life blend seamlessly...",
+      "attractions": "Explore the Pyramids of Giza, Sphinx, Egyptian Museum, Nile River cruise, and experience local traditions."
+    },
+    {
+      "id": 14,
+      "title": "Enchanting Venice",
+      "destination": "Venice, Italy",
+      "duration": "4 Days / 3 Nights",
+      "price_inr": "INR 29,500",
+      "price_usd": "$400",
+      "description": "Experience the enchantment of Venice, a city built on water and filled with artistic treasures...",
+      "attractions": "Explore St. Mark's Square, ride a gondola through canals, visit Murano Island for glass art, and savor Venetian cuisine."
+    },
+    {
+      "id": 15,
+      "title": "Magical Marrakech",
+      "destination": "Marrakech, Morocco",
+      "duration": "7 Days / 6 Nights",
+      "price_inr": "INR 22,000",
+      "price_usd": "$300",
+      "description": "Discover the magic of Marrakech, a city of vibrant colors, bustling markets, and rich history...",
+      "attractions": "Explore the medina, Jardin Majorelle, Bahia Palace, experience Moroccan cuisine, and venture into the Atlas Mountains."
+    },
+    {
+      "id": 16,
+      "title": "Historic Athens",
+      "destination": "Athens, Greece",
+      "duration": "5 Days / 4 Nights",
+      "price_inr": "INR 26,500",
+      "price_usd": "$360",
+      "description": "Delve into the historic treasures of Athens, the birthplace of democracy and Western civilization...",
+      "attractions": "Visit the Acropolis, Parthenon, Plaka district, enjoy Greek cuisine, and learn about ancient mythology."
+    },
+    {
+      "id": 17,
+      "title": "Cultural Delights of Kyoto",
+      "destination": "Kyoto, Japan",
+      "duration": "6 Days / 5 Nights",
+      "price_inr": "INR 30,000",
+      "price_usd": "$410",
+      "description": "Immerse yourself in the cultural delights of Kyoto, a city of traditional temples, gardens, and geisha culture...",
+      "attractions": "Explore Kinkaku-ji, Fushimi Inari Shrine, Arashiyama Bamboo Grove, experience tea ceremonies, and discover historic neighborhoods."
+    },
+    {
+      "id": 18,
+      "title": "Istanbul Explorer",
+      "destination": "Istanbul, Turkey",
+      "duration": "5 Days / 4 Nights",
+      "price_inr": "INR 24,000",
+      "price_usd": "$320",
+      "description": "Uncover the rich history and vibrant culture of Istanbul, a city that straddles Europe and Asia...",
+      "attractions": "Visit the Hagia Sophia, Blue Mosque, Topkapi Palace, cruise the Bosphorus, and savor Turkish delights."
+    },
+    {
+      "id": 19,
+      "title": "Adventures in Sydney",
+      "destination": "Sydney, Australia",
+      "duration": "8 Days / 7 Nights",
+      "price_inr": "INR 38,000",
+      "price_usd": "$520",
+      "description": "Embark on adventures in Sydney, a city known for its iconic landmarks, beautiful beaches, and outdoor activities...",
+      "attractions": "Explore the Sydney Opera House, Bondi Beach, Sydney Harbour Bridge, enjoy local cuisine, and discover the Blue Mountains."
     }
   ]
 }
-
