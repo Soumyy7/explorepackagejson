@@ -2,123 +2,112 @@
   "careers": [
     {
       "id": 1,
-      "title": "Senior React Developer",
-      "salary": 50000,
-      "location": "Mumbai, India"
+      "title": "Majestic Mumbai",
+      "destination": "Mumbai, India",
+      "duration": "5 Days / 4 Nights",
+      "price_inr": "INR 12,000",
+      "price_usd": "$160",
+      "description": "Experience the vibrant city of Mumbai, where tradition meets modernity. Explore historical landmarks, enjoy the bustling markets, and savor delicious street food. From the iconic Gateway of India to the glamorous Bollywood scene, this tour captures the essence of Mumbai's rich culture and diversity."
     },
     {
       "id": 2,
-      "title": "Plumber",
-      "salary": 40000,
-      "location": "Delhi, India"
+      "title": "Delhi Discovery",
+      "destination": "Delhi, India",
+      "duration": "4 Days / 3 Nights",
+      "price_inr": "INR 10,500",
+      "price_usd": "$140",
+      "description": "Embark on a journey to Delhi, India's capital city, where history unfolds at every corner. Visit the historic Red Fort, Jama Masjid, and Humayun's Tomb. Experience the blend of ancient traditions and modern influences as you explore bustling markets and savor authentic Indian cuisine."
     },
     {
       "id": 3,
-      "title": "Gym Leader",
-      "salary": 75000,
-      "location": "Bangalore, India"
+      "title": "Bangalore Retreat",
+      "destination": "Bangalore, India",
+      "duration": "3 Days / 2 Nights",
+      "price_inr": "INR 9,000",
+      "price_usd": "$120",
+      "description": "Escape to Bangalore, a city known for its pleasant climate and vibrant culture. Discover lush gardens, impressive tech parks, and lively street markets. Explore the art and music scene, and enjoy a serene getaway at nearby nature reserves."
     },
     {
       "id": 4,
-      "title": "Vue Developer",
-      "salary": 40000,
-      "location": "Chennai, India"
+      "title": "Chennai Charm",
+      "destination": "Chennai, India",
+      "duration": "4 Days / 3 Nights",
+      "price_inr": "INR 11,250",
+      "price_usd": "$150",
+      "description": "Experience the charm of Chennai, where tradition and modernity coexist harmoniously. Explore magnificent temples, stroll along Marina Beach, and savor delectable South Indian cuisine. Discover the city's rich heritage and immerse yourself in its cultural treasures."
     },
     {
       "id": 5,
-      "title": "Tutorial Maker",
-      "salary": 35000,
-      "location": "Kolkata, India"
+      "title": "Kolkata Kaleidoscope",
+      "destination": "Kolkata, India",
+      "duration": "5 Days / 4 Nights",
+      "price_inr": "INR 12,750",
+      "price_usd": "$170",
+      "description": "Uncover the cultural kaleidoscope of Kolkata, a city known for its artistic heritage and intellectual pursuits. Visit iconic landmarks, explore colonial-era architecture, and indulge in the city's culinary delights. Immerse yourself in the arts, literature, and history of this vibrant metropolis."
     },
     {
       "id": 6,
-      "title": "Website Manager",
-      "salary": 50000,
-      "location": "Hyderabad, India"
+      "title": "Hyderabad Heritage",
+      "destination": "Hyderabad, India",
+      "duration": "3 Days / 2 Nights",
+      "price_inr": "INR 9,000",
+      "price_usd": "$120",
+      "description": "Discover the regal heritage of Hyderabad, a city of Nizams and iconic landmarks. Explore the historic Charminar, visit the opulent Chowmahalla Palace, and savor the world-famous Hyderabadi biryani. Experience the blend of old-world charm and modern dynamism."
     },
     {
       "id": 7,
-      "title": "Food Tester",
-      "salary": 30000,
-      "location": "Pune, India"
+      "title": "Paris Romance",
+      "destination": "Paris, France",
+      "duration": "6 Days / 5 Nights",
+      "price_inr": "INR 30,000",
+      "price_usd": "$400",
+      "description": "Experience the romance of Paris, the City of Love. Explore iconic landmarks like the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral. Indulge in gourmet cuisine, stroll along the Seine River, and immerse yourself in the arts and culture of this enchanting city."
     },
     {
       "id": 8,
-      "title": "Software Engineer",
-      "salary": 60000,
-      "location": "Jaipur, India"
+      "title": "New York Adventure",
+      "destination": "New York City, USA",
+      "duration": "7 Days / 6 Nights",
+      "price_inr": "INR 40,000",
+      "price_usd": "$550",
+      "description": "Embark on an exciting adventure in the vibrant streets of New York City. Discover the iconic Statue of Liberty, Times Square, and Central Park. Immerse yourself in the city's diverse culture, Broadway shows, and world-class dining."
+    },
+    {
+      "id": 8,
+      "title": "New York Adventure",
+      "destination": "New York City, USA",
+      "duration": "7 Days / 6 Nights",
+      "price_inr": "INR 40,000",
+      "price_usd": "$550",
+      "description": "Embark on an exciting adventure in the vibrant streets of New York City. Discover the iconic Statue of Liberty, Times Square, and Central Park. Immerse yourself in the city's diverse culture, Broadway shows, and world-class dining."
     },
     {
       "id": 9,
-      "title": "Data Scientist",
-      "salary": 80000,
-      "location": "Ahmedabad, India"
+      "title": "Serenity in Santorini",
+      "destination": "Santorini, Greece",
+      "duration": "5 Days / 4 Nights",
+      "price_inr": "INR 25,000",
+      "price_usd": "$350",
+      "description": "Experience the breathtaking beauty of Santorini's white-washed buildings and crystal-clear waters. Explore charming villages, relax on stunning beaches, and witness stunning sunsets over the Aegean Sea. This idyllic island escape is perfect for relaxation and rejuvenation."
     },
     {
       "id": 10,
-      "title": "Graphic Designer",
-      "salary": 45000,
-      "location": "Lucknow, India"
+      "title": "Tokyo Essence",
+      "destination": "Tokyo, Japan",
+      "duration": "6 Days / 5 Nights",
+      "price_inr": "INR 35,000",
+      "price_usd": "$480",
+      "description": "Immerse yourself in the vibrant energy of Tokyo, where ancient traditions meet futuristic innovation. Visit historic temples, experience bustling street markets, and indulge in authentic Japanese cuisine. Discover the unique blend of modernity and culture that defines this captivating city."
     },
     {
       "id": 11,
-      "title": "Content Writer",
-      "salary": 35000,
-      "location": "Chandigarh, India"
-    },
-    {
-      "id": 12,
-      "title": "Marketing Manager",
-      "salary": 55000,
-      "location": "Indore, India"
-    },
-    {
-      "id": 13,
-      "title": "Android Developer",
-      "salary": 45000,
-      "location": "Kochi, India"
-    },
-    {
-      "id": 14,
-      "title": "HR Specialist",
-      "salary": 40000,
-      "location": "Jaipur, India"
-    },
-    {
-      "id": 15,
-      "title": "Sales Executive",
-      "salary": 30000,
-      "location": "Surat, India"
-    },
-    {
-      "id": 16,
-      "title": "UI/UX Designer",
-      "salary": 50000,
-      "location": "Bhopal, India"
-    },
-    {
-      "id": 17,
-      "title": "Accountant",
-      "salary": 40000,
-      "location": "Nagpur, India"
-    },
-    {
-      "id": 18,
-      "title": "Project Manager",
-      "salary": 60000,
-      "location": "Visakhapatnam, India"
-    },
-    {
-      "id": 19,
-      "title": "Customer Support Representative",
-      "salary": 35000,
-      "location": "Agra, India"
-    },
-    {
-      "id": 20,
-      "title": "Quality Assurance Analyst",
-      "salary": 45000,
-      "location": "Patna, India"
+      "title": "Breathtaking Bali",
+      "destination": "Bali, Indonesia",
+      "duration": "8 Days / 7 Nights",
+      "price_inr": "INR 28,000",
+      "price_usd": "$380",
+      "description": "Escape to the paradise of Bali, where lush landscapes, tranquil beaches, and vibrant culture await. Explore ancient temples, relax in luxurious resorts, and enjoy water sports in clear turquoise waters. Experience the perfect blend of relaxation and adventure."
     }
   ]
 }
+
