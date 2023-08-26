@@ -8,7 +8,7 @@
       "price_inr": "INR 12,000",
       "price_usd": "$160",
       "description": "Experience the vibrant city of Mumbai...",
-      "attractions": "Visit the iconic Gateway of India, explore historic Chhatrapati Shivaji Terminus, savor street food delights at Chowpatty Beach, and discover the glamorous Bollywood scene."
+      "attractions": "Immerse in Bollywood's magic, relax at Marine Drive's seafront, and explore historic sites like the Gateway of India. Discover the vibrant markets of Colaba Causeway and Linking Road. Don't miss the spiritual essence of Siddhivinayak Temple and Haji Ali Dargah. Dive into the bustling street food scene and take a ferry to Elephanta Island's ancient caves."
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price_inr": "INR 10,500",
       "price_usd": "$140",
       "description": "Embark on a journey to Delhi...",
-      "attractions": "Explore the historic Red Fort, Jama Masjid, and Humayun's Tomb. Immerse in bustling markets and savor authentic Indian cuisine."
+      "attractions": "Explore India's capital with visits to historic landmarks like the Red Fort and India Gate. Discover the peaceful Lotus Temple and the intricate Akshardham Temple. Wander through bustling markets like Chandni Chowk and experience the spiritual aura of Jama Masjid. Dive into history at Humayun's Tomb and Qutub Minar, and relish the serenity of Lodhi Gardens."
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price_inr": "INR 9,000",
       "price_usd": "$120",
       "description": "Escape to Bangalore, a city known for its pleasant climate...",
-      "attractions": "Discover lush gardens, tech parks, lively street markets, art and music scene, and nearby nature reserves."
+      "attractions": "Discover the blend of technology and nature at Lalbagh Botanical Garden. Explore the vibrant markets of Commercial Street and Brigade Road. Engage in history at Bangalore Palace and Tipu Sultan's Summer Palace. Don't miss the serene tranquility of Nandi Hills, and indulge in the city's vibrant food scene."
     },
     {
       "id": 8,
@@ -38,7 +38,7 @@
       "price_inr": "INR 40,000",
       "price_usd": "$550",
       "description": "Embark on an exciting adventure in the vibrant streets of New York City...",
-      "attractions": "Discover the iconic Statue of Liberty, Times Square, Central Park, Broadway shows, diverse cultural experiences, and world-class dining."
+      "attractions": "New York offers a plethora of iconic attractions for tourists. Begin with Times Square's dazzling lights, then explore Central Park's serene beauty. Don't miss the Statue of Liberty and Ellis Island, symbols of freedom and immigration. Wander through the vibrant neighborhoods like Chinatown, Little Italy, and SoHo. Marvel at world-class art in the Met Museum and MoMA. Visit the historic Grand Central Terminal and the reflective 9/11 Memorial. Enjoy Broadway shows and shop along Fifth Avenue. Experience the bustling energy of Wall Street and catch panoramic views from the Empire State Building or One World Observatory. NYC guarantees an unforgettable adventure."
     },
     {
       "id": 9,
@@ -48,7 +48,7 @@
       "price_inr": "INR 25,000",
       "price_usd": "$350",
       "description": "Experience the breathtaking beauty of Santorini's white-washed buildings and crystal-clear waters...",
-      "attractions": "Explore charming villages, relax on stunning beaches, witness stunning sunsets, and immerse in local culture."
+      "attractions": "Bask in the breathtaking beauty of blue-domed churches against the Aegean Sea backdrop. Wander through the charming alleys of Oia and Fira. Relax on the unique black sand beaches of Kamari and Perissa. Explore ancient ruins at Akrotiri and revel in stunning sunsets over the caldera."
     },
     {
       "id": 10,
@@ -58,7 +58,7 @@
       "price_inr": "INR 35,000",
       "price_usd": "$480",
       "description": "Immerse yourself in the vibrant energy of Tokyo, where ancient traditions meet futuristic innovation...",
-      "attractions": "Visit historic temples, experience bustling street markets, indulge in authentic Japanese cuisine, and discover modern cultural phenomena."
+      "attractions": "Immerse in the futuristic energy of Shibuya Crossing and the vibrant shopping district of Akihabara. Discover the serenity of Meiji Shrine and the historical Asakusa Senso-ji Temple. Enjoy panoramic views from Tokyo Skytree and the Tokyo Tower. Engage with traditional arts in the district of Ueno and experience bustling Tsukiji Outer Market."
     },
     {
       "id": 11,
@@ -68,7 +68,7 @@
       "price_inr": "INR 28,000",
       "price_usd": "$380",
       "description": "Escape to the paradise of Bali, where lush landscapes, tranquil beaches, and vibrant culture await...",
-      "attractions": "Explore ancient temples, relax in luxurious resorts, enjoy water sports, and immerse in local traditions."
+      "attractions": "Relax on Seminyak and Kuta's beaches, and explore the artistic streets of Ubud. Discover ancient temples like Uluwatu and Tanah Lot. Engage in water sports at Nusa Dua and explore the Tegallalang Rice Terraces. Experience spiritual moments at Besakih Temple and the sacred Monkey Forest."
     },
     {
       "id": 12,
@@ -78,7 +78,7 @@
       "price_inr": "INR 32,000",
       "price_usd": "$430",
       "description": "Experience the eternal city of Rome, where history comes alive around every corner...",
-      "attractions": "Visit the Colosseum, Vatican City, Trevi Fountain, enjoy Italian cuisine, and stroll through charming neighborhoods."
+      "attractions": "Immerse in ancient history at the Colosseum and Roman Forum. Explore Vatican City's St. Peter's Basilica and the Sistine Chapel. Throw a coin into the Trevi Fountain for luck and wander through the charming streets of Trastevere. Relax in Villa Borghese's gardens and savor authentic Italian cuisine in local trattorias."
     },
     {
       "id": 13,
@@ -88,7 +88,7 @@
       "price_inr": "INR 18,500",
       "price_usd": "$250",
       "description": "Embark on a cultural odyssey in Cairo, where ancient wonders and modern life blend seamlessly...",
-      "attractions": "Explore the Pyramids of Giza, Sphinx, Egyptian Museum, Nile River cruise, and experience local traditions."
+      "attractions": "Marvel at the Pyramids of Giza and the Sphinx. Explore the Egyptian Museum's treasures and the historic Khan El Khalili market. Discover the serene beauty of Al-Azhar Park and engage with Islamic architecture at the Citadel of Cairo. Cruise the Nile River for unique perspectives of the city."
     },
     {
       "id": 14,
@@ -98,7 +98,7 @@
       "price_inr": "INR 29,500",
       "price_usd": "$400",
       "description": "Experience the enchantment of Venice, a city built on water and filled with artistic treasures...",
-      "attractions": "Explore St. Mark's Square, ride a gondola through canals, visit Murano Island for glass art, and savor Venetian cuisine."
+      "attractions": "Glide through the iconic canals in a gondola and marvel at St. Mark's Square's architecture. Visit the St. Mark's Basilica and the Doge's Palace. Explore the vibrant Rialto Market and enjoy Venetian cuisine at local osterias. Escape to the colorful island of Burano and discover glassblowing in Murano."
     },
     {
       "id": 15,
@@ -108,7 +108,7 @@
       "price_inr": "INR 22,000",
       "price_usd": "$300",
       "description": "Discover the magic of Marrakech, a city of vibrant colors, bustling markets, and rich history...",
-      "attractions": "Explore the medina, Jardin Majorelle, Bahia Palace, experience Moroccan cuisine, and venture into the Atlas Mountains."
+      "attractions": "Immerse in the vibrant medina, explore the bustling Jemaa el-Fnaa square, and engage with local culture at Bahia Palace. Discover the tranquil Majorelle Garden and indulge in a traditional hammam experience. Explore the Saadian Tombs and the Koutoubia Mosque."
     },
     {
       "id": 16,
@@ -118,7 +118,7 @@
       "price_inr": "INR 26,500",
       "price_usd": "$360",
       "description": "Delve into the historic treasures of Athens, the birthplace of democracy and Western civilization...",
-      "attractions": "Visit the Acropolis, Parthenon, Plaka district, enjoy Greek cuisine, and learn about ancient mythology."
+      "attractions": "Ascend the Acropolis to marvel at the Parthenon and the Erechtheion. Explore the historic Plaka neighborhood and discover artifacts at the Acropolis Museum. Engage with Greek mythology at the Temple of Olympian Zeus and take in panoramic views from Lycabettus Hill."
     },
     {
       "id": 17,
@@ -128,7 +128,7 @@
       "price_inr": "INR 30,000",
       "price_usd": "$410",
       "description": "Immerse yourself in the cultural delights of Kyoto, a city of traditional temples, gardens, and geisha culture...",
-      "attractions": "Explore Kinkaku-ji, Fushimi Inari Shrine, Arashiyama Bamboo Grove, experience tea ceremonies, and discover historic neighborhoods."
+      "attractions": "Experience the tranquility of Kinkaku-ji, the Golden Pavilion, and the serenity of Arashiyama Bamboo Grove. Engage with traditional culture in Gion, the geisha district. Explore Fushimi Inari Shrine's iconic torii gates and discover historic Kiyomizu-dera Temple."
     },
     {
       "id": 18,
@@ -138,7 +138,7 @@
       "price_inr": "INR 24,000",
       "price_usd": "$320",
       "description": "Uncover the rich history and vibrant culture of Istanbul, a city that straddles Europe and Asia...",
-      "attractions": "Visit the Hagia Sophia, Blue Mosque, Topkapi Palace, cruise the Bosphorus, and savor Turkish delights."
+      "attractions": "Explore Hagia Sophia's grandeur and the intricate tiles of the Blue Mosque. Discover the historic Topkapi Palace and the bustling Grand Bazaar. Immerse in culture at the Spice Bazaar and take a Bosphorus cruise for panoramic city views. Engage with history at the Basilica Cistern and the Galata Tower.."
     },
     {
       "id": 19,
@@ -148,7 +148,7 @@
       "price_inr": "INR 38,000",
       "price_usd": "$520",
       "description": "Embark on adventures in Sydney, a city known for its iconic landmarks, beautiful beaches, and outdoor activities...",
-      "attractions": "Explore the Sydney Opera House, Bondi Beach, Sydney Harbour Bridge, enjoy local cuisine, and discover the Blue Mountains."
+      "attractions": " Admire the iconic Sydney Opera House and Sydney Harbour Bridge. Relax at Bondi Beach's golden sands and visit Taronga Zoo for unique wildlife encounters. Explore the historic Rocks district and enjoy the Royal Botanic Garden's tranquility. Take a ferry to Manly Beach for stunning views, and ascend Sydney Tower Eye for panoramic cityscapes."
     }
   ]
 }
